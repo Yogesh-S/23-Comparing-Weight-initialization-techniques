@@ -5,7 +5,7 @@ In this notebook, we'll learn how to find good initial weights for a neural netw
 ![alt text](https://github.com/Yogesh-S/23-Comparing-Weight-initialization-techniques/blob/main/neuron_weights.png?raw=true)
 ### Initial Weights and Observing Training Loss
 
-To see how different weights perform, we'll test on the same dataset and neural network. That way, we know that any changes in model behavior are due to the weights and not any changing data or model structure.
+To see how different weights perform, we'll test on the same dataset and neural network. That way, we know that any changes in model behavior are due to the weights and not by virtue of data or model structure.
 
 #### `Let us consider 7 different cases of weight initialization and see how the training loss decreases over time.`
 >``` 
