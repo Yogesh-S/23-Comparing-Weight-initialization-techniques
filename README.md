@@ -15,7 +15,7 @@ To see how different weights perform, we'll test on the same dataset and neural 
 >  • Weights from Uniform Distribution, Range(-.5,.5)
 >  • Weights from Uniform Distribution, Range(-1/√n,1/√n); n - input to the node
 >  • Weights from Normal Distribution, Range(-1/√n,1/√n); n - input to the node
->  • Auto Initialization (No explicit initialization); directly call model_func()
+>  • Auto Initialization (No explicit initialization)
 
 
 Sometimes the differences in training loss, over time, will be large and other times, certain weights offer only small improvements.
